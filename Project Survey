@@ -9,7 +9,7 @@ Project Title: Everything to Know About Youngsters
 Dataset: 
 Url:
 
-Description: Our dataset consists of data from a survey taken from 1010 Slovakians aged between 15 and 30 in the year 2013. The dataet contains the responses of the subjects on various preferences and other things such as habits and traits. 
+Description: Our dataset consists of data from a survey taken from 1010 Slovakians aged between 15 and 30 in the year 2013. The dataset contains the responses of the subjects on various preferences and other things such as habits and traits. All responses are ranked by subjects from 1-5 and the demographics are categorical variables.  
 
 Possible Questions:
   * What is the relationship between student spending and overall health habits?
