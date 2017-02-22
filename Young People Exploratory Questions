@@ -1,0 +1,4 @@
+Questions that we formed throughout the code
+
+- What is the range between male and female heights? 
+- What is the min and max of these heights and are there any outlier we should remove? Yes, 62 cm female
