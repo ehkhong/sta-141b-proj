@@ -22,8 +22,14 @@ f_data.plot(y = 'Height')
 plt.show()
 #Cell
 
+It looks like someone's height is an outlier. Lets take a look at this height
+#Markdown
+
 f_data['Height'].min()
 #Cell
+
+It seems like someone's height is 62cm. This is probably a mistake. We will assume it is 162cm and change this height to 162cm.
+#Markdown
 
 f_data.loc[f_data[f_data['Height'] == f_data['Height'].min()].index.tolist(),'Height'] = 162.0
 #Cell
