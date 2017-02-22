@@ -39,3 +39,5 @@ plt.ylabel('Frequency of Height')
 plt.title('Height Frequency between Male and Female')
 plt.show()
 #Cell
+
+
