@@ -29,7 +29,7 @@ f_data.loc[f_data[f_data['Height'] == f_data['Height'].min()].index.tolist(),'He
 #Cell
 
 
-bins = np.linspace(140, 210, 50)
+bins = np.linspace(140, 210, 60)
 
 plt.hist(f_data['Height'].tolist(), bins, range=(bins.min(), bins.max()), alpha = 0.7, label = 'Female')
 plt.hist(m_data['Height'].tolist(), bins, range=(bins.min(), bins.max()), alpha = 0.7, label = 'Male')
