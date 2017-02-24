@@ -11,5 +11,10 @@ Questions that we formed throughout the code
 - Is there a relationship between education and spending habits? (ML)
 We assume that as people get older they will spend more money on their appearance and socializing.
 At what point in people's lives do they start to save the most amount of money? "I save all the money I can" from spending habits
-If I were an retailer or business, which demographic would I choose to advertise my products for? 
-- Which demoraphic spends more on gadgets? Which demographic spends more on branded vs non branded clothing. 
+- more specifically you could examine what education level, as well as age ranges. and then based on the range we can also undertand 
+  what education level
+If I were a retailer or business, which demographic would I choose to advertise my products for? 
+- Which demoraphic spends more on gadgets? Which demographic spends more on branded vs non branded clothing.
+- columns - "spending on gadgets" and "spending on looks"
+In Health Habits- I live a very healthy life style - we should also see that they also will happily pay more money for food
+- column names "healthy eating" vs"spending on healthy food"
