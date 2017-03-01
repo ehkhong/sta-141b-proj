@@ -3,7 +3,7 @@ Questions that we formed throughout the code
 - What is the range between male and female heights? 
     -Also do some research on heights of Slovakian people ** 
 - What is the min and max of these heights and are there any outlier we should remove? Yes, 62 cm female
-
+~~~ age distribution? ~~~
 -Do people with smoking habits believe, "I live a very healthy lifestyle?"
     -Do people with drinking habits believe, "I live a very healthy lifestyle?"
     -Are these people worry about their health?
@@ -36,7 +36,12 @@ My next hypothesis would be that people that grew up in villages have different 
 If I were an retailer or business, which demographic would I choose to advertise my products for? 
 - Which demoraphic spends more on gadgets? Which demographic spends more on branded vs non branded clothing. 
 
--Is there a possible relationship with people's preferences in music or movies and phobias? or perhaps different phobias 
-We assume that people with more phobias are more into mild or slowpaced music/movies.
-Do people who enjoy slow paced music have a heightened level o phobia? Perhaps there is a psychological explanation for this
-do people who watch horrors and thrillers have a higher phobia of public speaking vs. people who do not like horrors and thrillers?
+*-Is there a possible relationship with people's preferences in music or movies and phobias? or perhaps different phobias 
+I hypothesize that people who are into slowpaced music/mild hearted movies have more phobias, and perhaps are more scared of many things than others.
+
+Do people who enjoy slow paced music have a heightened level of phobia? Perhaps there is a psychological explanation for this
+- generalize phobias as a whole and then compare different types of music to it, heavy metal/opera/jazz/pop
+    - can probably average out the total phobias category for each person (facet over male/female maybe too), box plot across different types of movies/music
+
+do people who watch horrors and thrillers have a higher phobia of public speaking vs. people who like horrors, sci-fi movies, or documentaries???
+- here I am hypothesizing that people who watch horror or documentaries are more introverted than others, maybe it'll have an interesting set of correlations
