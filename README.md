@@ -1,8 +1,8 @@
-STA 141B Project. It's Lit An Extensive Study Of Young People
+STA 141B Project. It's Lit An Extensive Study Of Young People \n
 Authors: Jessica Tsoi, Matthew Lee, Benjamin Mok, Eugene Hong
 
 
-Jupyter Notebook will consist of: Project with all codes and code explanation.
+Jupyter Notebook will consist of: Project with all codes and code explanation. \n
 HTML format will be a shortened version, will cosist of: Project with some codes and NO code explanation.
 
 
