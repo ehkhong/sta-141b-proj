@@ -2,9 +2,9 @@
 <p>Authors: Jessica Tsoi, Matthew Lee, Benjamin Mok, Eugene Hong</p>
 
 
-<p>Jupyter Notebook will consist of: Project with all codes and code explanation.</p>
-<p>HTML format will be a shortened version, will cosist of: Project with some codes and NO code explanation.</p>
+<p><strong>Jupyter Notebook will consist of:</strong> Project with all codes and code explanation.</p>
+<p><strong>HTML format will be a shortened version, will cosist of:</strong> Project with some codes and NO code explanation.</p>
 
-
-columns.csv: file that contains the columns and their respective questions from the survey
-responses.csv: file that contains the responses of the survey
+<p> </p>
+<p>columns.csv: file that contains the columns and their respective questions from the survey</p>
+<p>responses.csv: file that contains the responses of the survey</p>
