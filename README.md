@@ -7,5 +7,3 @@ HTML format will be a shortened version, will cosist of: Project with some codes
 
 columns.csv: file that contains the columns and their respective questions from the survey
 responses.csv: file that contains the responses of the survey
-
-Young People Exploratory Questions: Outline of the questions we plan to analyze. 
